@@ -7,7 +7,7 @@
 [![Documentation](https://img.shields.io/badge/docs-latest-orange.svg)](https://hyperion-labs.github.io/docs)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11-blue.svg)](https://www.python.org/)
-[![Downloads](https://img.shields.io/badge/downloads-10k%2Fmonth-brightgreen.svg)](https://pypi.org/project/hyperion-ft/)
+[![Downloads](https://img.shields.io/badge/downloads-10k%2Fmonth-brightgreen.svg)]
 [![Contributors](https://img.shields.io/badge/contributors-42-orange.svg)](https://github.com/hyperion-labs/hyperion/graphs/contributors)
 
 </div>
