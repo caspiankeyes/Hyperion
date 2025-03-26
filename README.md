@@ -12,7 +12,7 @@
 
 </div>
 
-> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full resources, methodologies, and interpretability tooling are only available via private governance channels.
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full resources, private community access, and interpretability tooling are only available via private governance channels.
 
 ## 📑 Overview
 
