@@ -12,6 +12,8 @@
 
 </div>
 
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full security methodologies and interpretability tooling are only available via private governance channels.
+
 ## 📑 Overview
 
 **Hyperion** is an industrially-validated framework for parameter-efficient fine-tuning of large language models with particular emphasis on computational efficiency, distributed training orchestration, and production-grade deployment pipelines. Developed by a consortium of researchers from leading AI labs and refined through extensive production use, Hyperion addresses the limitations of conventional fine-tuning approaches through a sophisticated blend of optimization techniques, memory-efficient adapters, and hardware-aware acceleration.
