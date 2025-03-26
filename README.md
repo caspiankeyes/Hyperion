@@ -619,7 +619,7 @@ If you use Hyperion in your research or applications, please cite our paper:
 
 ## 🪪 License
 
-Hyperion is released under the Apache 2.0 license. See [LICENSE](LICENSE) for details.
+Hyperion is released under the AGPL-3.0 license. See [LICENSE](LICENSE) for details.
 
 ---
 
