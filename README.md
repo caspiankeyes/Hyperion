@@ -1,4 +1,4 @@
-# 🚀 Hyperion: Distributed LLM Fine-Tuning Framework
+# Hyperion: Distributed LLM Fine-Tuning Framework
 
 <div align="center">
 
